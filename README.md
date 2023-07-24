@@ -7,12 +7,12 @@ The goal of this project is to perform data engineering and analytics on India's
 ![architecture](https://github.com/Loveprit/Agriculture_dataengineer/assets/32951261/3f604eb9-ad56-4754-855c-eceb3941f994)
 
 # Technology Used
-Programming Language - Python
-Google Cloud Platform
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
+Programming Language - Python <br>
+Google Cloud Platform <br>
+Google Storage <br>
+Compute Instance <br>
+BigQuery <br>
+Looker Studio <br>
 Modern Data Pipeine Tool - https://www.mage.ai/
 
 
