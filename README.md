@@ -3,8 +3,9 @@
 Introduction
 The goal of this project is to perform data engineering and analytics on India's crop data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
-Architecture
+# Architecture
 
+![architecture](https://github.com/Loveprit/Agriculture_dataengineer/assets/32951261/3f604eb9-ad56-4754-855c-eceb3941f994)
 
 Technology Used
 Programming Language - Python
