@@ -27,3 +27,4 @@ More info about dataset can be found here:
 Website - https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset
 
 Data Model
+[crop_data_model.pdf](https://github.com/Loveprit/Agriculture_dataengineer/files/12142356/crop_data_model.pdf)
